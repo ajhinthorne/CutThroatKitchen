@@ -31,9 +31,12 @@ winner_agg = comp_by_round[['season',
 
 winner_agg['money_spent'] = 25000 - winner_agg['ending_funds']
 
-
+winner_by_round[['competitor_id','total_sabotages_received']].groupby(['competitor_id']).sum()
 
 print(winner_by_round.shape,winner_agg.shape)
 
+
+# %%
+comp_by_round[['competitor_id','round']].groupby(['competitor_id']).count()
 
 # %%
