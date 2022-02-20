@@ -163,12 +163,10 @@ sabotages_type_agg = sabotages_type_agg.merge(
         min_winning_bid = pd.NamedAgg(column = 'winning_bid',aggfunc = min),
         max_winning_bid = pd.NamedAgg(column = 'winning_bid',aggfunc = max),
         avg_winning_bid = pd.NamedAgg(column = 'winning_bid',aggfunc = np.mean),
-        med_winning_bid = pd.NamedAgg(column = 'winning_bid',aggfunc = np.median)
+        med_winning_bid = pd.NamedAgg(column = 'winning_bid',aggfunc = np.median)    
     ).reset_index(),
     how='left',on='sabotage_type'
 )
-
-
 
 
 #### writing csvs to save to github
@@ -177,6 +175,7 @@ sabotages_type_agg = sabotages_type_agg.merge(
 # Fixed File Path
 competitor_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Competitor Agg.csv',index=False)
 
+sabotages_type_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Sabotage Type Agg.csv',index=False)
 
 
 # %%
