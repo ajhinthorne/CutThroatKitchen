@@ -1,0 +1,109 @@
+competitor_id,competitor,season,episode,gender,winner,number_of_rounds,ending_funds,total_auction_money_spent,total_sabotages_given,total_sabotages_received,total_fines_paid
+1,David Slatkin,2,6,M,False,1,25000,0,0,1,0.0
+2,Brook Ager,2,6,F,False,2,20000,5000,1,4,0.0
+3,Leah Evilay,2,6,F,True,3,7700,17300,4,3,0.0
+4,Eric Shelton,2,6,M,False,3,10700,14300,3,3,0.0
+5,Mike Brown,2,7,M,False,2,22500,2500,1,3,0.0
+6,Chris Sao,2,7,M,True,3,18100,6900,3,3,0.0
+7,Emily Hensberg,2,7,F,False,1,21400,3600,1,0,0.0
+8,Alex Schiffman,2,7,M,False,3,14000,11000,4,5,0.0
+9,Aaron Perez,2,8,M,True,3,9900,15100,4,4,0.0
+37,Molly Brandt,2,8,F,False,3,16100,8900,2,3,0.0
+38,Natasha Bernardez,2,8,F,False,1,22300,2700,1,1,0.0
+39,David Basil,2,8,M,False,2,12700,12300,2,3,0.0
+10,Lily Wiginton,2,1,F,False,3,4600,20400,3,2,0.0
+11,Stratton,2,1,M,False,2,15000,10000,1,3,0.0
+12,Pham,2,1,F,True,3,16800,8200,2,2,0.0
+13,Dorvil,2,1,M,False,1,17300,7700,1,2,0.0
+40,Chris Gentile,2,2,M,True,3,17000,8000,2,4,0.0
+14,Watson,2,2,F,False,1,25000,0,0,1,0.0
+15,Tzorin,2,2,M,False,2,4800,20200,4,1,0.0
+16,Sasha Gaponovich,2,2,F,False,3,22900,2100,1,3,0.0
+17,Sadhu,2,3,M,False,1,25000,0,0,1,0.0
+18,Miranda,2,3,M,False,2,20900,4100,1,2,0.0
+19,Nickell,2,3,F,False,3,10700,14300,3,4,0.0
+20,Velez,2,3,F,True,3,13600,11400,3,4,0.0
+21,Thomas Golombos,2,4,M,False,1,25000,0,0,1,0.0
+22,Erin Evenson,2,4,F,False,3,11900,13100,3,4,0.0
+23,Elise La Salle,2,4,F,False,2,15000,10000,1,3,0.0
+24,Chris Kyler,2,4,M,True,3,4600,20400,4,3,0.0
+25,Mike Midgely,2,5,M,True,3,15500,9500,3,5,0.0
+26,Melissa Trimmer,2,5,F,False,1,23900,1100,1,2,0.0
+27,Kelsey Henderson,2,5,F,False,3,6800,18200,4,4,0.0
+28,Joe Lazo,2,5,M,False,2,20300,4700,2,2,0.0
+29,David,2,9,M,False,2,19000,6000,2,3,0.0
+30,Jessica,2,9,F,True,3,14400,10600,2,6,0.0
+31,Josh,2,9,M,False,3,17400,7600,4,1,0.0
+32,Jade,2,9,F,False,1,22400,2600,1,1,0.0
+33,Rob Burmeister,2,10,M,True,3,5500,19500,4,4,0.0
+34,Dawn Burrell,2,10,F,False,2,21400,3600,1,4,0.0
+35,Billy Noe,2,10,M,False,3,13900,11100,2,5,0.0
+36,Todd Harrington,2,10,M,False,1,6600,18400,2,1,0.0
+41,Zadi,2,11,M,True,3,17400,7600,1,3,0.0
+42,Pink,2,11,F,False,3,7400,17600,3,3,0.0
+43,Stark,2,11,M,False,1,25000,0,0,0,0.0
+44,Jack,2,11,M,False,2,8400,16600,2,2,0.0
+45,Terry Pratch,2,12,M,False,2,24000,1000,1,3,0.0
+46,Athena,2,12,F,False,3,19300,5700,2,3,0.0
+47,Rina Yonin,2,12,F,True,3,1400,23600,3,3,0.0
+48,Adam,2,12,M,False,1,15000,10000,1,2,0.0
+49,Emmanuel,2,13,M,False,3,10100,14900,2,4,0.0
+50,Korenn,2,13,F,False,1,25000,0,0,1,0.0
+51,Gregory,2,13,M,True,3,4100,20900,4,1,0.0
+52,Bryan,2,13,M,False,2,16600,8400,1,4,0.0
+53,Millie,3,1,F,False,3,2800,22200,5,3,0.0
+54,Brandon,3,1,M,False,1,21300,3700,1,2,0.0
+55,Davina,3,1,F,False,2,18000,7000,1,1,0.0
+56,Johnny,3,1,M,True,3,2200,22800,3,6,0.0
+57,Frankie,3,2,M,False,3,16000,9000,2,3,0.0
+58,Charles,3,2,F,False,1,25000,0,0,1,0.0
+59,Gwen,3,2,F,False,2,20800,4200,1,1,0.0
+60,Brian,3,2,M,True,3,6000,19000,3,3,0.0
+61,Emily,3,3,F,False,3,5900,19100,4,2,0.0
+62,Tommy,3,3,M,True,3,19000,6000,2,3,0.0
+63,Sian,3,3,F,False,1,25000,0,0,2,0.0
+64,Steve,3,3,M,False,2,20000,5000,1,2,0.0
+65,Tiffany,3,4,F,True,3,16600,8400,2,4,0.0
+66,Lauren,3,4,M,False,1,25000,0,0,2,0.0
+67,Kate,3,4,F,False,3,7100,17900,2,4,0.0
+68,Terry,3,4,M,False,2,10900,14100,3,2,0.0
+69,Nikos,3,5,M,False,1,16500,8500,1,2,0.0
+70,Tom,3,5,F,True,3,8600,16400,2,5,0.0
+71,Janet,3,5,F,False,2,15800,9200,1,2,0.0
+72,Lor,3,5,M,False,3,2800,22200,4,2,0.0
+73,Matthew,3,6,M,False,3,14500,10500,2,3,0.0
+74,Erica,3,6,F,True,3,1300,23700,3,3,0.0
+75,Angie,3,6,F,False,2,11900,13100,2,2,0.0
+76,Roberto,3,6,M,False,1,25000,0,0,1,0.0
+77,Sammy,3,7,M,False,3,13000,12000,1,3,0.0
+78,Nicole,3,7,F,False,1,15800,9200,3,0,0.0
+79,Jenn,3,7,F,True,3,18500,6500,2,2,0.0
+80,Michael,3,7,M,False,2,19500,5500,1,5,0.0
+81,Jason,3,8,M,False,3,10900,14100,3,5,0.0
+82,Renae,3,8,F,False,2,22400,2600,1,4,0.0
+83,Kimber,3,8,F,False,1,25000,0,0,1,0.0
+84,Chris,3,8,M,True,3,7200,17800,4,1,0.0
+85,Diana,3,9,F,False,3,16800,8200,3,4,0.0
+86,Perry,3,9,M,True,3,9300,15700,2,3,0.0
+87,Dre,3,9,M,False,2,16200,8800,2,2,0.0
+88,Christina,3,9,F,False,1,25000,0,0,1,0.0
+89,Jaron,3,10,M,False,3,13000,12000,2,4,0.0
+90,Frances,3,10,F,True,3,6900,18100,3,3,0.0
+91,Abby,3,10,F,False,2,12600,12400,2,2,0.0
+92,Lemar,3,10,M,False,1,15500,9500,1,1,0.0
+93,Chris,3,11,M,True,3,6800,18200,2,6,0.0
+94,Robin,3,11,F,False,3,14800,10200,3,2,0.0
+95,Maverick,3,11,M,False,1,16900,8100,1,0,0.0
+96,Cole,3,11,M,False,2,14000,11000,2,3,0.0
+97,Jet Tila,3,12,M,False,2,13400,11600,2,4,0.0
+98,Antonia Lofaso,3,12,F,True,3,22000,3000,1,4,0.0
+99,Simon Mujumdar,3,12,M,False,1,23000,2000,1,0,0.0
+100,Geoffrey Zakarian,3,12,M,False,3,2900,22100,3,2,0.0
+101,Shane,4,1,M,True,3,5000,20000,2,1,0.0
+102,Morgan,4,1,F,False,2,21900,3100,1,3,0.0
+103,Candace,4,1,F,False,3,10800,14200,4,2,0.0
+104,Nate,4,1,M,False,1,25000,0,0,1,0.0
+105,Dina,3,13,F,False,3,10300,14700,2,3,0.0
+106,Monica,3,13,F,False,1,17300,7700,1,1,0.0
+107,Eric,3,13,M,True,3,7900,15100,4,4,2000.0
+108,Melissa,3,13,F,False,2,20400,4600,1,3,0.0

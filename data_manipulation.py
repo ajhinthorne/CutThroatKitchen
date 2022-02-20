@@ -168,4 +168,15 @@ sabotages_type_agg = sabotages_type_agg.merge(
     how='left',on='sabotage_type'
 )
 
+
+
+
+#### writing csvs to save to github
+###Using the Pandas to CSV function to write a csv into this folder to then Merge into GitHub
+# %%
+# Fixed File Path
+competitor_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Competitor Agg.csv',index=False)
+
+
+
 # %%
