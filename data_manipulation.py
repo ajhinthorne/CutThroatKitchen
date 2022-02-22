@@ -173,9 +173,10 @@ sabotages_type_agg = sabotages_type_agg.merge(
 ###Using the Pandas to CSV function to write a csv into this folder to then Merge into GitHub
 # %%
 # Fixed File Path
+comp_by_round.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Competitor By Round.csv',index=False)
 competitor_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Competitor Agg.csv',index=False)
-
+sabotages_desc_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Sabotage Desc Agg.csv',index=False)
 sabotages_type_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Sabotage Type Agg.csv',index=False)
-
+sabotage_raw_data.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Auction Data.csv',index=False)
 
 # %%

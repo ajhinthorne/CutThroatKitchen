@@ -1,0 +1,198 @@
+sabotage_description,sabotage_type,count_received,min_winning_bid,max_winning_bid,avg_winning_bid,med_winning_bid
+bike made margaritas,distraction,1,3100.0,3100.0,3100.0,3100.0
+breakfast buffet voucher (replace ingredients except eggs),ingredients,1,8800.0,8800.0,8800.0,8800.0
+can't use water,equipment,1,7000.0,7000.0,7000.0,7000.0
+cannot cook on stovetop,equipment,1,13000.0,13000.0,13000.0,13000.0
+cheese from tuna melt,ingredients,1,6400.0,6400.0,6400.0,6400.0
+choose heat options for all competitors,equipment,3,8100.0,8100.0,8100.0,8100.0
+competitors can't use fryer,equipment,2,6200.0,6200.0,6200.0,6200.0
+competitors cannot taste their food,exclusivity,2,10100.0,10100.0,10100.0,10100.0
+comptetiors cannot use salt,exclusivity,3,3600.0,3600.0,3600.0,3600.0
+cook from a camp stove,equipment,1,5000.0,5000.0,5000.0,5000.0
+"cook with a different heat source (lamp, straightening iron, blowtorch)",equipment,3,6800.0,6800.0,6800.0,6800.0
+cook with an iron,equipment,1,10000.0,10000.0,10000.0,10000.0
+"different rice options (sushi, rice pudding, instant, fried rice)",ingredients,3,3500.0,3500.0,3500.0,3500.0
+"fish options (sticks, tilapia, anchovies)",ingredients,1,4400.0,4400.0,4400.0,4400.0
+force an opponent to use with bottom shelf ingredients,ingredients,1,2000.0,2000.0,2000.0,2000.0
+force choice between canned chicken and half cooking time,distraction,1,5500.0,5500.0,5500.0,5500.0
+force opponent to not use a waffle iron,equipment,1,2400.0,2400.0,2400.0,2400.0
+force opponent to wear rubber gloves,distraction,1,500.0,500.0,500.0,500.0
+force opponents to use different heat source,equipment,3,8000.0,8000.0,8000.0,8000.0
+force two opponents to switch stations and dishes with an opponent,distraction,2,10100.0,10100.0,10100.0,10100.0
+force your opponent to use a claw hand,equipment,2,2000.0,6600.0,4300.0,4300.0
+frozen component in their dish,ingredients,1,7000.0,7000.0,7000.0,7000.0
+get your ingredients from a quarter vending machine,distraction,1,9500.0,9500.0,9500.0,9500.0
+"give heat sources to opponents (broiler, microwave, fryer)",equipment,3,4000.0,4000.0,4000.0,4000.0
+harvest dough from leftover pizza,ingredients,1,10500.0,10500.0,10500.0,10500.0
+incorporate savory ingredients,ingredients,1,3000.0,3000.0,3000.0,3000.0
+limited to 3 tools in the kitchen,equipment,2,4000.0,11200.0,7600.0,7600.0
+lose your noodles,ingredients,1,6400.0,6400.0,6400.0,6400.0
+make 3 cocktails for alton,distraction,1,4200.0,4200.0,4200.0,4200.0
+make ice cream in hand shaker,equipment,1,5000.0,5000.0,5000.0,5000.0
+measure and mixing in muffin tins,equipment,1,,,,
+"must carry egg in an egg head, lose $500 if you drop it",distraction,2,700.0,7700.0,4200.0,4200.0
+must cook a stack of pancakes 1 foot high,distraction,1,4000.0,4000.0,4000.0,4000.0
+must cook and mix in coconuts and pineapples,equipment,1,5800.0,5800.0,5800.0,5800.0
+must cook everything in a vertical egg cooker,equipment,1,6000.0,6000.0,6000.0,6000.0
+must cook everything in their cobb salad,ingredients,1,6300.0,6300.0,6300.0,6300.0
+must cook everything on a mini cook station,equipment,1,5300.0,5300.0,5300.0,5300.0
+must cook fries one at a time,distraction,1,7000.0,7000.0,7000.0,7000.0
+must cook in a poofy souffle suit,distraction,1,2900.0,2900.0,2900.0,2900.0
+must cook in a sheet pan,equipment,1,2100.0,2100.0,2100.0,2100.0
+must cook in eggshells,equipment,1,8100.0,8100.0,8100.0,8100.0
+must cook in ladles,equipment,1,3000.0,3000.0,3000.0,3000.0
+must cook on a shovel,equipment,1,8000.0,8000.0,8000.0,8000.0
+must cook on a tv tray table,equipment,1,2100.0,2100.0,2100.0,2100.0
+must cook on all in one breakfast sandwich maker,equipment,1,7900.0,7900.0,7900.0,7900.0
+must cook on an inverted wok,equipment,1,9200.0,9200.0,9200.0,9200.0
+must cook the entire meal in bed,distraction,1,7000.0,7000.0,7000.0,7000.0
+must cook tied together with another chef,distraction,2,3600.0,3600.0,3600.0,3600.0
+must cook with only pinky and thumb on one hand,distraction,1,1600.0,1600.0,1600.0,1600.0
+must finish their dish in the next five minutes (@15 minutes),distraction,1,1500.0,1500.0,1500.0,1500.0
+must fry in separated salad dressing,distraction,1,1200.0,1200.0,1200.0,1200.0
+must get herbs from bag of lawn trimmings,ingredients,1,4000.0,4000.0,4000.0,4000.0
+must harvest cheese from other cheese tray items,ingredients,1,7600.0,7600.0,7600.0,7600.0
+must harvest milk products from a fake cow,ingredients,1,5000.0,5000.0,5000.0,5000.0
+must harvest pasta from a pasta picture of alton,distraction,3,5600.0,5600.0,5600.0,5600.0
+must ice pick out sugar/eggs/flour from ice block,distraction,1,3000.0,3000.0,3000.0,3000.0
+must incorporate a mysterious green jar,ingredients,1,1000.0,1000.0,1000.0,1000.0
+must incorporate cookie dough from cookie dough ice cream,ingredients,1,2500.0,2500.0,2500.0,2500.0
+must keep hand on cooking equipment,distraction,1,2500.0,2500.0,2500.0,2500.0
+must make an additional sweet deviled egg,ingredients,1,5000.0,5000.0,5000.0,5000.0
+must make ice cream in ice cream shaker,equipment,1,6000.0,6000.0,6000.0,6000.0
+must make skewers out of vegetables,equipment,1,2000.0,2000.0,2000.0,2000.0
+must make their own fire as heat,equipment,1,1900.0,1900.0,1900.0,1900.0
+must mix in pastry bags,equipment,1,500.0,500.0,500.0,500.0
+must play ball toss to win back ingredients,distraction,1,6000.0,6000.0,6000.0,6000.0
+must reassemble butter stick from individual sticks,distraction,1,1600.0,1600.0,1600.0,1600.0
+must replace 3 ingredients with like items,ingredients,1,10100.0,10100.0,10100.0,10100.0
+must replace all equipment with a build a station,equipment,1,14000.0,14000.0,14000.0,14000.0
+must replace bread with a king cake,ingredients,1,7500.0,7500.0,7500.0,7500.0
+must replace cooking water w/ water in coconuts,equipment,1,4000.0,4000.0,4000.0,4000.0
+must replace hand tools w/ a mallet,equipment,1,8100.0,8100.0,8100.0,8100.0
+must replace mixing tools with spring form pans,equipment,1,2500.0,2500.0,2500.0,2500.0
+must replace shrimp with shrimp from ice block,ingredients,1,3500.0,3500.0,3500.0,3500.0
+must replace spices with spice mixes,ingredients,1,2600.0,2600.0,2600.0,2600.0
+must replace utensils with a pastry cutter,equipment,1,5700.0,5700.0,5700.0,5700.0
+must share chef's knife w/ other opponents,equipment,3,10000.0,10000.0,10000.0,10000.0
+must share hand utensils,equipment,2,3300.0,3300.0,3300.0,3300.0
+must share tools with 2 other opponents,equipment,3,9200.0,9200.0,9200.0,9200.0
+must shop with shopping takeout containers,distraction,1,6000.0,6000.0,6000.0,6000.0
+must switch baskets with pinata ingredients,ingredients,2,2000.0,2000.0,2000.0,2000.0
+must tweezer sesame seeds off of a bun,distraction,1,6000.0,6000.0,6000.0,6000.0
+"must use ""red or green"" ingredients",ingredients,1,2200.0,2200.0,2200.0,2200.0
+must use a rotating heat source,equipment,1,7600.0,7600.0,7600.0,7600.0
+must use canned sloppy joes instead of proteins,ingredients,1,4000.0,4000.0,4000.0,4000.0
+"must use comfort food ingredients (OJ,honey,cough drops)",ingredients,1,5000.0,5000.0,5000.0,5000.0
+must use durian,ingredients,1,6000.0,6000.0,6000.0,6000.0
+must use mashed potatoes,ingredients,1,2500.0,2500.0,2500.0,2500.0
+must use moka pot as only cooking vessel,equipment,1,5900.0,5900.0,5900.0,5900.0
+must use oil from different sources,ingredients,1,1800.0,1800.0,1800.0,1800.0
+must use sheet pans as cooking vessel,equipment,1,5000.0,5000.0,5000.0,5000.0
+must use straws to put liquid into risotto pans,equipment,1,4200.0,4200.0,4200.0,4200.0
+must use white bread to make bread bowl,ingredients,1,5300.0,5300.0,5300.0,5300.0
+must wait for their number to be called,distraction,1,3500.0,3500.0,3500.0,3500.0
+must wear masher on their dominant hand,distraction,1,4600.0,4600.0,4600.0,4600.0
+must wear periscope glasses,distraction,1,4400.0,4400.0,4400.0,4400.0
+only chef to taste food,exclusivity,2,3600.0,3600.0,3600.0,3600.0
+opponents meat unevenly chopped,ingredients,1,8600.0,8600.0,8600.0,8600.0
+puree opponents banana,ingredients,1,3800.0,3800.0,3800.0,3800.0
+replace all equipment with gardening tools,equipment,1,2000.0,2000.0,2000.0,2000.0
+replace all heat w/ panini press,equipment,1,1000.0,1000.0,1000.0,1000.0
+replace all ingredients,ingredients,1,4500.0,4500.0,4500.0,4500.0
+replace all ingredients for fridge drawer,ingredients,1,5000.0,5000.0,5000.0,5000.0
+replace all non potatoes w/ new basket,ingredients,1,2600.0,2600.0,2600.0,2600.0
+replace all utensils w/ chopsticks,equipment,1,7600.0,7600.0,7600.0,7600.0
+replace baking ingredients w/ ingredients in cooking boxes,ingredients,1,3100.0,3100.0,3100.0,3100.0
+replace bowls w/ collanders,equipment,1,2000.0,2000.0,2000.0,2000.0
+replace bread w/ rye crackers,ingredients,1,7700.0,7700.0,7700.0,7700.0
+replace bread with matzo ball soup,ingredients,1,12000.0,12000.0,12000.0,12000.0
+replace breading w/ chicken nuggets,ingredients,1,3600.0,3600.0,3600.0,3600.0
+replace broth/stock w/ tea,ingredients,1,1300.0,1300.0,1300.0,1300.0
+replace buns with soggy buns/pulverize hot dog meat,ingredients,2,7600.0,7600.0,7600.0,7600.0
+replace cheese with different cheese sources,ingredients,3,8500.0,8500.0,8500.0,8500.0
+replace citrus with lemon candy,ingredients,1,2000.0,2000.0,2000.0,2000.0
+replace clams or cream,ingredients,2,7100.0,7100.0,7100.0,7100.0
+replace clams w/ razor clams/geoduck,ingredients,2,3100.0,3100.0,3100.0,3100.0
+replace cooking and mixing vessels w/ ramen bowls,equipment,2,11900.0,11900.0,11900.0,11900.0
+replace cooking equipment with yard sale equipment,equipment,1,4300.0,4300.0,4300.0,4300.0
+replace cooking with bent pan,equipment,1,4400.0,4400.0,4400.0,4400.0
+replace eggs w/ overcooked egg yolks/chocolate covered bacon,ingredients,2,9000.0,9000.0,9000.0,9000.0
+"replace eggs w/ shelless, ostrich egg, quail egg",ingredients,3,10000.0,10000.0,10000.0,10000.0
+replace equipment w/ chemistry set,equipment,1,12000.0,12000.0,12000.0,12000.0
+replace equipment with the ultimate grilling apron,equipment,1,16200.0,16200.0,16200.0,16200.0
+replace flour with hand milled flour,ingredients,1,4500.0,4500.0,4500.0,4500.0
+replace fresh berries with berries from cereal dispenser,ingredients,1,3000.0,3000.0,3000.0,3000.0
+replace fresh protein and vegetables with dried,ingredients,1,3100.0,3100.0,3100.0,3100.0
+replace hand tools and mixers with bricklaying kit,equipment,1,4000.0,4000.0,4000.0,4000.0
+replace hand tools with a sporf,equpiment,1,4600.0,4600.0,4600.0,4600.0
+replace heat sources with a heat gun,equipment,1,3100.0,3100.0,3100.0,3100.0
+"replace heat w/ toaster,coffee maker,waffle iron",equipment,3,11500.0,11500.0,11500.0,11500.0
+replace heat with hot dog roller,equipment,1,7600.0,7600.0,7600.0,7600.0
+replace knifes w/ exacto knife,equipment,1,3000.0,3000.0,3000.0,3000.0
+"replace knives w/ clam shucker, hammer and screwdriver",equipment,2,3200.0,3200.0,3200.0,3200.0
+replace knives w/ fishing equipment,equipment,1,2000.0,2000.0,2000.0,2000.0
+replace knives with box cutter or plastic knives,equipment,2,5500.0,5500.0,5500.0,5500.0
+replace knives with ice skate,equipment,1,8500.0,8500.0,8500.0,8500.0
+"replace knives, utensils, hand tools",equipment,1,2500.0,2500.0,2500.0,2500.0
+replace lamb chops with overcooked/chopped lamb,ingredients,2,10200.0,10200.0,10200.0,10200.0
+replace lettuce w/ shredded lettuce,ingredients,1,5200.0,5200.0,5200.0,5200.0
+replace milk/cream w/ coffee creamers,ingredients,1,7000.0,7000.0,7000.0,7000.0
+replace oil from oil capsules,distraction,1,2000.0,2000.0,2000.0,2000.0
+replace onions with substitutes,ingredients,3,5000.0,5000.0,5000.0,5000.0
+replace opponent proteins with frog legs/roast beef/fish sticks,ingredients,3,2000.0,2000.0,2000.0,2000.0
+replace opponents chicken w/ turducken,ingredients,1,500.0,500.0,500.0,500.0
+replace opponents cognac with congnac candies,ingredients,1,3500.0,3500.0,3500.0,3500.0
+replace peanut butter ingredients with self made/used peanut butter jars,ingredients,2,3900.0,3900.0,3900.0,3900.0
+replace peas with pea substitutes,ingredients,3,9100.0,9100.0,9100.0,9100.0
+replace potatoes with broken skins or peeled potatoes,ingredients,2,2600.0,2600.0,2600.0,2600.0
+replace pots,equipment,1,1700.0,1700.0,1700.0,1700.0
+replace pots and pans for mini pot,equipment,1,6000.0,6000.0,6000.0,6000.0
+replace pots with 7 tiny pots,equipment,1,3900.0,3900.0,3900.0,3900.0
+"replace protein, veggies, and cheese w/ yard waste",ingredients,1,4300.0,4300.0,4300.0,4300.0
+replace proteins with less desirable proteins,ingredients,3,1100.0,1100.0,1100.0,1100.0
+replace proteins with vacuum sealed food,ingredients,1,6100.0,6100.0,6100.0,6100.0
+replace rice paper wrappers w/ broken wrappers,ingredients,1,4100.0,4100.0,4100.0,4100.0
+replace sugar w/ cotton candy,ingredients,1,3600.0,3600.0,3600.0,3600.0
+replace sugar with popping candy,ingredients,1,4000.0,4000.0,4000.0,4000.0
+replace tomato products with salsa products,ingredients,1,2600.0,2600.0,2600.0,2600.0
+replace tools with balls of foil/plastic,equipment,1,9700.0,9700.0,9700.0,9700.0
+replace tortillas from chips and lard,ingredients,1,3300.0,3300.0,3300.0,3300.0
+replace tortillas w/ frozen enchiladas,ingredients,1,1600.0,1600.0,1600.0,1600.0
+share pot w/ an opponent,equipment,2,2000.0,2000.0,2000.0,2000.0
+shop without a basket,equipment,1,3800.0,3800.0,3800.0,3800.0
+split basket between opponents,ingredients,4,4100.0,7700.0,5900.0,5900.0
+station swap (ingredients/sabotages),distraction,2,13200.0,13200.0,13200.0,13200.0
+stop cooking to make mayo,distraction,1,3700.0,3700.0,3700.0,3700.0
+submerge an opponents bread in bread,ingredients,1,7500.0,7500.0,7500.0,7500.0
+swap all of opponents chicken,ingredients,2,5500.0,5500.0,5500.0,5500.0
+swap cheese (nachos) and protein (freeze dried beef),ingredients,2,6400.0,6400.0,6400.0,6400.0
+swap chicken with canned chicken,ingredients,1,3100.0,3100.0,3100.0,3100.0
+swap clams w/ goeduck,ingredients,1,7000.0,7000.0,7000.0,7000.0
+swap competitors fish with mystery fish,ingredients,2,4900.0,4900.0,4900.0,4900.0
+swap dairy with ice cream bars,ingredients,1,2100.0,2100.0,2100.0,2100.0
+swap fruit for exotic fruits,ingredients,1,3800.0,3800.0,3800.0,3800.0
+swap heat source with iron/steamer,equipment,1,10200.0,10200.0,10200.0,10200.0
+swap ingredients for other B/L/T ingredients,ingredients,3,7000.0,7000.0,7000.0,7000.0
+swap meat with mystery meats,ingredients,3,4500.0,4500.0,4500.0,4500.0
+swap opponent jalepenos,ingredients,3,700.0,700.0,700.0,700.0
+swap opponent proteins w/ canned roast beef/canned oysters,ingredients,2,2000.0,2000.0,2000.0,2000.0
+swap opponent proteins with meatball lottery,ingredients,2,10200.0,10200.0,10200.0,10200.0
+swap opponents bread with bread basket,ingredients,1,7000.0,7000.0,7000.0,7000.0
+swap opponents dough ingredients,ingredients,2,7900.0,7900.0,7900.0,7900.0
+"swap opponents doughs with cookies, saltines, pizza crust",ingredients,3,3500.0,3500.0,3500.0,3500.0
+swap opponents heat sources w/ different irons,equpiment,2,7100.0,7100.0,7100.0,7100.0
+swap out bread for bread crumbs,ingredients,1,10000.0,10000.0,10000.0,10000.0
+swap out chocolate for dispenser candy,ingredients,1,3200.0,3200.0,3200.0,3200.0
+swap out oranges with substitutes,ingredients,1,1100.0,1100.0,1100.0,1100.0
+swap out potatoes,ingredients,3,1500.0,1500.0,1500.0,1500.0
+swap out two of your opponents eggs w/ poached or crushed eggs,ingredients,2,8500.0,8500.0,8500.0,8500.0
+"swap tomato products bloody mary, tomato, ketchup",ingredients,3,1600.0,1600.0,1600.0,1600.0
+"swap wonton wrappers (honey,frozen,wonton soup)",ingredients,3,4000.0,4000.0,4000.0,4000.0
+swip citrus with lemon mirangue pie,ingredients,1,4300.0,4300.0,4300.0,4300.0
+switch fish for anchovies,ingredients,1,1100.0,1100.0,1100.0,1100.0
+switch opponents entire basket from a tree,ingredients,1,3000.0,3000.0,3000.0,3000.0
+trade whisk and mixer for gigantic whisk,equipment,1,4800.0,4800.0,4800.0,4800.0
+use fuel tabs for heat,equipment,1,5000.0,5000.0,5000.0,5000.0
+use oatmeal as crumble topping,ingredients,1,6000.0,6000.0,6000.0,6000.0
+use tin foil for all tools,equipment,2,6300.0,8400.0,7350.0,7350.0
