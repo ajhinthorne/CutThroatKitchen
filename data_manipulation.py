@@ -1,4 +1,4 @@
-####Importing Datasets
+####Importing Packages
 # %%
 from audioop import avg
 from statistics import mean
@@ -178,5 +178,7 @@ competitor_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/C
 sabotages_desc_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Sabotage Desc Agg.csv',index=False)
 sabotages_type_agg.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Sabotage Type Agg.csv',index=False)
 sabotage_raw_data.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/Auction Data.csv',index=False)
+sabotages_received_raw.to_csv('C:/Users/Adam Hinthorne/Documents/CutThroatKitchenLocal/CutThroatKitchen/sabotage_data.csv',index=False)
+
 
 # %%
