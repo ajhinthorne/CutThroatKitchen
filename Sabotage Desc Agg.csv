@@ -125,7 +125,7 @@ replace flour with hand milled flour,ingredients,1,4500.0,4500.0,4500.0,4500.0
 replace fresh berries with berries from cereal dispenser,ingredients,1,3000.0,3000.0,3000.0,3000.0
 replace fresh protein and vegetables with dried,ingredients,1,3100.0,3100.0,3100.0,3100.0
 replace hand tools and mixers with bricklaying kit,equipment,1,4000.0,4000.0,4000.0,4000.0
-replace hand tools with a sporf,equpiment,1,4600.0,4600.0,4600.0,4600.0
+replace hand tools with a sporf,equipment,1,4600.0,4600.0,4600.0,4600.0
 replace heat sources with a heat gun,equipment,1,3100.0,3100.0,3100.0,3100.0
 "replace heat w/ toaster,coffee maker,waffle iron",equipment,3,11500.0,11500.0,11500.0,11500.0
 replace heat with hot dog roller,equipment,1,7600.0,7600.0,7600.0,7600.0
@@ -181,7 +181,7 @@ swap opponent proteins with meatball lottery,ingredients,2,10200.0,10200.0,10200
 swap opponents bread with bread basket,ingredients,1,7000.0,7000.0,7000.0,7000.0
 swap opponents dough ingredients,ingredients,2,7900.0,7900.0,7900.0,7900.0
 "swap opponents doughs with cookies, saltines, pizza crust",ingredients,3,3500.0,3500.0,3500.0,3500.0
-swap opponents heat sources w/ different irons,equpiment,2,7100.0,7100.0,7100.0,7100.0
+swap opponents heat sources w/ different irons,equipment,2,7100.0,7100.0,7100.0,7100.0
 swap out bread for bread crumbs,ingredients,1,10000.0,10000.0,10000.0,10000.0
 swap out chocolate for dispenser candy,ingredients,1,3200.0,3200.0,3200.0,3200.0
 swap out oranges with substitutes,ingredients,1,1100.0,1100.0,1100.0,1100.0
